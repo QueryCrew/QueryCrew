@@ -3,11 +3,12 @@
 
 <hr>
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=069CD0&size=25&multiline=true&lines=Bugging+the+Bug;Pushing+the+Limits)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Community;Bugging+the+Bug;Pushing+the+limits;&center=true&width=500&height=50"></a>
+ 
 </p>
 <hr>
 
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Community;Bugging+the+Bug;Pushing+the+limits;&center=true&width=500&height=50"></a>
+  
 
 
