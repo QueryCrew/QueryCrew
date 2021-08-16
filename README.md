@@ -3,6 +3,7 @@
 
 <hr>
 <p align="center">
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+the+Bug;Pushing+the+limits;&center=true&width=500&height=50"></a>
  
 </p>
@@ -10,5 +11,11 @@
 
 
   
+
+
+<hr>
+
+![the query crew (2)](https://user-images.githubusercontent.com/65110262/129517672-9532777d-4f54-4b44-84c0-90d7f3ef6d84.png)
+
 
 
