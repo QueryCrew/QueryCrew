@@ -7,7 +7,6 @@
 </p>
 <hr>
 
-
-![the query crew (1)](https://user-images.githubusercontent.com/65110262/129226472-c2fbab31-4e49-435e-9744-8a566f64ff8a.png)
+![the query crew (2)](https://user-images.githubusercontent.com/65110262/129517672-9532777d-4f54-4b44-84c0-90d7f3ef6d84.png)
 
 
