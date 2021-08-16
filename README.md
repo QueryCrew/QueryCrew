@@ -3,7 +3,8 @@
 
 <hr>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug;Pushing+Limits;&center=true&width=211&height=50&size=25">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug!;Pushing+Limits!;&center=true&width=180&height=25&size=20">
 </p>
 <hr>
 
