@@ -4,7 +4,7 @@
 <hr>
 <p>
  
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug!;Pushing+Limits!;&center=true&width=180&height=25&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug!;Pushing+Limits!;&center=true&width=180&height=30&size=20">
 </p>
 <hr>
 
