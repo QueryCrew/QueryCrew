@@ -3,7 +3,9 @@
 
 <hr>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Community;Bugging+The+Bug;Pushing+Limits;&center=true&width=500&height=50&size=25"></a>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug;Pushing+Limits;&center=true&width=500&height=50&size=25"></a>
+
 </p>
 <hr>
 
