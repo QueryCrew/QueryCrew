@@ -1,9 +1,9 @@
-<h1 align=center>Hi there 👋</h1>
-<p align=center>THE QUERY CREW are bunch of people that are interested in finding out more about something. It's a project started by programmers for programmers with the goal of expanding the world's total amount of good programming knowledge.</p>
+<h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p >THE QUERY CREW are bunch of people that are interested in finding out more about something. It's a project started by programmers for programmers with the goal of expanding the world's total amount of good programming knowledge.</p>
 
 <hr>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug;Pushing+Limits;&center=true&width=500&height=50&size=25"></a>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bugging+The+Bug;Pushing+Limits;&center=true&width=211&height=50&size=25">
 </p>
 <hr>
 
