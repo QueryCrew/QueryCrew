@@ -1,5 +1,5 @@
-<h1 align= "center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align= "center">THE QUERY CREW are bunch of people that are interested in finding out more about something. It's a project started by programmers for programmers with the goal of expanding the world's total amount of good programming knowledge.</p>
+<h1 align= "center">Hey There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align= "center">THE QUERY CREW are bunch of people that are interested in finding out more about something. It's a project started by programmers for programmers with the goal of expanding the world's total amount of good programming knowledge.Lets code.</p>
 
 <hr>
 <p align= "center">
