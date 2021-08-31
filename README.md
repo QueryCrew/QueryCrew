@@ -9,10 +9,10 @@
 </p>
 <hr>
 <p align= "center">
-<a href="https://chat.whatsapp.com/Kfunvj0VQME7QifdckhINm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=32px>&nbsp;</a>
-<a href="mailto:thequerycrew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=32px> &nbsp;</a>
-<a href="https://github.com/KaranSurana/QueryCrew"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=32px>&nbsp;</a>
-<a href="https://www.linkedin.com/company/74908973/admin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=32px>&nbsp;</a>
+<a href="https://chat.whatsapp.com/Kfunvj0VQME7QifdckhINm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=32px></a>&nbsp;
+<a href="mailto:thequerycrew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=32px></a> &nbsp;
+<a href="https://github.com/KaranSurana/QueryCrew"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=32px></a>&nbsp;
+<a href="https://www.linkedin.com/company/74908973/admin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=32px></a>&nbsp;
  
 </p>
 
