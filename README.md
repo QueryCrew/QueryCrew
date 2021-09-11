@@ -1,5 +1,5 @@
 <h1 align= "center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align= "center">The Query Crew is A Community And Our Way Of Helping Our Peer Achieve Their Goals!</p>
+<p align= "center">The Query Crew is a community and our way Of helping our peer achieve their goals!</p>
 <p align= "center">We Aim To Simplify Programming And Open-Source For You!</p>
 
 <hr>
