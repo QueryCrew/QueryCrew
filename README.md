@@ -18,6 +18,7 @@
 
 <hr>
 
-![the query crew (2)](https://user-images.githubusercontent.com/65110262/129517672-9532777d-4f54-4b44-84c0-90d7f3ef6d84.png)
+<img src="https://activity-graph.herokuapp.com/graph?username=QueryCrew&theme=react-dark">
 
 
+<img src="https://user-images.githubusercontent.com/65110262/129517672-9532777d-4f54-4b44-84c0-90d7f3ef6d84.png">
