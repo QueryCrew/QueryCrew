@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Pushing+Limits!;&center=true">
 </p>
 <hr>
+<h3 align= "center"><i>Connect With Us🔗</i></h5>
 <p align= "center">
 <a href="https://chat.whatsapp.com/Kfunvj0VQME7QifdckhINm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=32px></a>&nbsp;
 <a href="mailto:thequerycrew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=32px></a> &nbsp;
